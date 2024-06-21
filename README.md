@@ -1,6 +1,5 @@
 
-# 
- Skin Disease Detection Using computer vission and openAI llm to describe the desease 
+## Skin Disease Detection Using computer vission and openAI llm to describe the desease 
  
  This project utilizes YOLOv5, a cutting-edge object detection algorithm, to identify and classify various skin diseases from images. Designed for dermatologists, healthcare professionals, and researchers, this tool enhances preliminary screening and diagnosis, offering high accuracy and efficiency. It is particularly beneficial for telemedicine applications, especially in remote or underserved areas with limited access to dermatological expertise.
 
